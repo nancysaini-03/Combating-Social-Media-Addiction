@@ -13,24 +13,9 @@ Exploring the dataset to **Analyze Student Social Media** usage patterns, explor
 
 ---
 
-
 ### Behind the Analysis🔦
 
-<img width="1428" height="678" alt="1" src="https://github.com/user-attachments/assets/ec8aa04e-120e-4c17-92a6-a8bd86aa7bd7" />
-<img width="1500" height="727" alt="2" src="https://github.com/user-attachments/assets/8405bb6f-9cda-4317-9456-779bd38be748" />
-<img width="800" height="707" alt="3" src="https://github.com/user-attachments/assets/8cc34be3-a397-4e80-bb73-7aa76edc0526" />
-<img width="800" height="692" alt="4" src="https://github.com/user-attachments/assets/8edbb4f0-9446-4b0c-83fc-7b951a5a0876" />
-<img width="800" height="623" alt="5" src="https://github.com/user-attachments/assets/a418d146-29aa-4d85-8ad7-98c29808a54f" />
-<img width="800" height="702" alt="6" src="https://github.com/user-attachments/assets/1ec8b949-bba6-4bf6-af5d-083348a9d133" />
-<img width="800" height="381" alt="7" src="https://github.com/user-attachments/assets/8e3d81e4-7cb7-409d-9e1f-c9426e204191" />
-<img width="877" height="551" alt="8" src="https://github.com/user-attachments/assets/af03e2b8-6331-4124-a7ea-59ec15ad68fb" />
-<img width="800" height="592" alt="9" src="https://github.com/user-attachments/assets/ba5d05e7-c28b-4e8e-bfae-5483285bd02e" />
-<img width="800" height="535" alt="10" src="https://github.com/user-attachments/assets/707249a2-c40b-41aa-985f-900b990fe63b" />
-<img width="883" height="446" alt="11" src="https://github.com/user-attachments/assets/41bd9231-ef63-47fb-bf28-cb0b9165c1fb" />
-<img width="890" height="505" alt="12" src="https://github.com/user-attachments/assets/c6f5e6f6-2a1a-4c56-b7fd-56cd8ff3385a" />
-<img width="887" height="663" alt="13" src="https://github.com/user-attachments/assets/8498a8a4-0cd9-4636-8b5d-124896741181" />
-<img width="889" height="518" alt="14" src="https://github.com/user-attachments/assets/bddc528b-ad3d-429a-bc77-0252d87cb0ca" />
-
+[Combat_Social media.pdf](https://github.com/user-attachments/files/22524360/Combat_Social.media.pdf)
 
 ---
 
