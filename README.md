@@ -15,7 +15,17 @@ Exploring the dataset to **Analyze Student Social Media** usage patterns, explor
 
 ### Behind the Analysis🔦
 
-[Combat_Social media.pdf](https://github.com/user-attachments/files/22524360/Combat_Social.media.pdf)
+<img width="800" height="702" alt="6" src="https://github.com/user-attachments/assets/1ec8b949-bba6-4bf6-af5d-083348a9d133" />
+
+<img width="877" height="551" alt="8" src="https://github.com/user-attachments/assets/af03e2b8-6331-4124-a7ea-59ec15ad68fb" />
+
+<img width="800" height="535" alt="10" src="https://github.com/user-attachments/assets/707249a2-c40b-41aa-985f-900b990fe63b" />
+
+---
+
+***For full project, refer the pdf:**
+
+[Combat_Social media.pdf](https://github.com/user-attachments/files/22524437/Combat_Social.media.pdf)
 
 ---
 
