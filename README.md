@@ -5,11 +5,14 @@ Using Python to visualize trends and tell a compelling data story that can help 
 Exploring the dataset to **Analyze Student Social Media** usage patterns, explore demographic influences, and uncover trends that can guide awareness campaigns and digital detox programs. 
 
 ### 🎯Tasks I Did
-  -  Data Understanding & Cleaning
-  -  Exploratory Data Analysis (EDA)
-  -  Aggregation & Insights
-  -  Functions, Loops, and Conditionals
-  -  Data Visualization
+  - Data Loading:  Loads data and prints basic structure
+  - Data Cleaning: Check missing values, corrects types 
+  - Feature Engineering: Creates meaningful new columns (e.g., risk level) 
+  - EDA: Using describe, Seaborn, Matplotlib
+  - Insight Writing: Insight written for each chart 
+  - Function Usage: Uses custom functions for logic or strategy 
+  - Grouping/Aggregation: Pandas groupby usage with insights. 
+
 
 ---
 
@@ -26,6 +29,7 @@ Exploring the dataset to **Analyze Student Social Media** usage patterns, explor
 ***For full project, refer the pdf:**
 
 [Combat_Social media.pdf](https://github.com/user-attachments/files/22524437/Combat_Social.media.pdf)
+or you can check out the Jupiter notebook(given above)
 
 ---
 
@@ -35,7 +39,17 @@ Exploring the dataset to **Analyze Student Social Media** usage patterns, explor
  - Some platforms(LINE, LinkedIn, Vkontakte) don't affect Academic performance having nearly good average sleeping cycle. Majority of these platforms do not significantly influence grades, except for KakaoTalk and WhatsApp, which may cause distractions due to frequent notifications. Students need to reduce their screen time as their sleeping habit is being drastically impacted by some apps(Snapchat, Whatspp and youtube) with an average of 5.7 hours, which will lead to poor health in long run.
  - India has the highest level of addiction, accounting for 56.4% of the total population analyzed.
  - Students aged 18 show the highest addiction levels (7.7), lowest average sleep (5.5 hours), and poorest mental health (5.21), likely due to academic pressures, social challenges, and increased digital engagement disrupting sleep and well-being.
- - High Schoolers tend to be more addictive of social media, covering 38.7% of the total proportion.
+ - Based on average scores, high school students appear to be the most addicted to social media, contributing 38.7% to the total mean distribution among all education levels.
+ - With little more investigation, around 57.8% students are highly addicted in which undergraduates (199 students) are topping the list with their academic performance being affected more than their sleep cycle.
+
+### Recommended actions
+
+ - Personalized Detox Strategies are engineered for every student based on their addicted score and average daily usage hours.
+ - Enable usage limits via tools like Digital Wellbeing (Android), Screen Time (iOS), or third-party apps (e.g., StayFocusd).
+ - Turn off non-essential alerts to reduce constant temptation.
+ - Switch your phone to grayscale to make apps less visually stimulating.
+ - Designate device-free hours or social media-free days (e.g. “No Social Sundays”).
+ - Remind yourself that social media highlights are curated and not real life and its okay to not follow or know trends.
 
 
-### 🤩Excited to get feedback to enhance insights!  
+#### 🤩Excited to get feedback to enhance insights!  
